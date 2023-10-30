@@ -19,6 +19,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="31584890-6623-4ddd-89c7-c5e1771361b4" />
+        <option name="url" value="https://github.com/erimdogan/MLBOOTCAMP_FINAL_PROJECT.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -61,7 +74,7 @@
       <workItem from="1698525741888" duration="2760000" />
       <workItem from="1698582301384" duration="4221000" />
       <workItem from="1698666636541" duration="1166000" />
-      <workItem from="1698667916071" duration="690000" />
+      <workItem from="1698667916071" duration="1371000" />
     </task>
     <task id="LOCAL-00001" summary="projeect">
       <option name="closed" value="true" />
